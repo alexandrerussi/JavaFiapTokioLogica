@@ -1,4 +1,4 @@
-package fiap.tokio.logica.aulas;
+package logica.aulas;
 
 import java.util.Scanner;
 

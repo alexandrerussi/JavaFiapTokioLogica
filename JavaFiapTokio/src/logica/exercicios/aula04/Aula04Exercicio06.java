@@ -1,4 +1,4 @@
-package fiap.tokio.logica.exercicios.aula04;
+package logica.exercicios.aula04;
 
 import java.util.Scanner;
 

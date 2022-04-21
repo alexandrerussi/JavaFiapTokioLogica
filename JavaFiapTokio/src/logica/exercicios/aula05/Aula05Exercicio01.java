@@ -1,4 +1,4 @@
-package fiap.tokio.logica.exercicios.aula05;
+package logica.exercicios.aula05;
 
 import java.util.Scanner;
 
@@ -20,7 +20,7 @@ public class Aula05Exercicio01 {
 		
 		
 		System.out.println("---------------");
-		System.out.println("Exercício 3");
+		System.out.println("Exercï¿½cio 3");
 		
 		
 		Scanner entrada = new Scanner(System.in);
