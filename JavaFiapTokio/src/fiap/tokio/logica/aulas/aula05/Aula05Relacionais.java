@@ -1,4 +1,4 @@
-package fiap.tokio.logica.aulas;
+package fiap.tokio.logica.aulas.aula05;
 
 public class Aula05Relacionais {
 
@@ -25,7 +25,7 @@ public class Aula05Relacionais {
 		boolean falso = false;
 		
 		boolean logicaE = verdadeiro && falso;
-		System.out.println("Lógica E: " + logicaE);
+		System.out.println("Lï¿½gica E: " + logicaE);
 		
 		boolean logicaOU = true || true;
 		System.out.println(logicaOU);

@@ -1,4 +1,4 @@
-package fiap.tokio.logica.aulas;
+package fiap.tokio.logica.aulas.aula05;
 
 public class Aula05Testes {
 
@@ -6,8 +6,8 @@ public class Aula05Testes {
 
 		float nota = 9.5f;
 		
-		System.out.printf("Sua nota é: %f \n", nota);
-		System.out.format("Sua nota é: %f \n", nota);
+		System.out.printf("Sua nota ï¿½: %f \n", nota);
+		System.out.format("Sua nota ï¿½: %f \n", nota);
 		
 		String numeroTexto = "10.5";
 		float numero = Float.parseFloat(numeroTexto);

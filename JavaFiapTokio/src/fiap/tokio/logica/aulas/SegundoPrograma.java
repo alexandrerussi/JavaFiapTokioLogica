@@ -21,7 +21,7 @@ public class SegundoPrograma {
 		
 		System.out.println("");
 		
-		System.out.println("Olá, " + nome + "! Você tem " + idade + " anos.");
+		System.out.println("Olï¿½, " + nome + "! Vocï¿½ tem " + idade + " anos.");
 		
 		entrada.close();
 	}

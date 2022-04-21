@@ -1,4 +1,4 @@
-package fiap.tokio.logica.aulas;
+package fiap.tokio.logica.aulas.aula06;
 
 public class Aula06Condicionais {
 

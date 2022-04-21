@@ -1,4 +1,4 @@
-package fiap.tokio.logica.aulas;
+package fiap.tokio.logica.aulas.aula05;
 
 public class Aula05Tipos {
 
@@ -23,7 +23,6 @@ public class Aula05Tipos {
 		
 		int _int = 10;
 		
-		int salário = 10;
 		
 	}
 

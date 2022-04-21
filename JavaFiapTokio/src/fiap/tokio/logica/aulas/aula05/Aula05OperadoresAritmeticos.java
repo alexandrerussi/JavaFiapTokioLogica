@@ -1,4 +1,4 @@
-package fiap.tokio.logica.aulas;
+package fiap.tokio.logica.aulas.aula05;
 
 public class Aula05OperadoresAritmeticos {
 
@@ -24,7 +24,7 @@ public class Aula05OperadoresAritmeticos {
 		
 		System.out.println("");
 		
-		// OPERADORES DE ATRIBUIÇÃO
+		// OPERADORES DE ATRIBUIï¿½ï¿½O
 		
 		int numero = 2;
 		System.out.println(++numero);

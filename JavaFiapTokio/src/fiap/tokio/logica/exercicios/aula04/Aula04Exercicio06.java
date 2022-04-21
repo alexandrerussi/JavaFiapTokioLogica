@@ -1,4 +1,4 @@
-package fiap.tokio.logica.exercicios;
+package fiap.tokio.logica.exercicios.aula04;
 
 import java.util.Scanner;
 
@@ -6,8 +6,8 @@ public class Aula04Exercicio06 {
 
 	public static void main(String[] args) {
 		
-		// A entrada recebe o valor que o usuário digitar no terminal
-		// Q troço difícil
+		// A entrada recebe o valor que o usuï¿½rio digitar no terminal
+		// Q troï¿½o difï¿½cil
 		Scanner entrada = new Scanner(System.in);
 		
 		System.out.println("Alexandre"); // Exibidindo o texto Alexadre
@@ -15,7 +15,7 @@ public class Aula04Exercicio06 {
 		
 		/*
 		 * Meu algoritmo exibe o que o user digitou
-		 * Não precisa utilizar variável
+		 * Nï¿½o precisa utilizar variï¿½vel
 		*/
 
 	}
