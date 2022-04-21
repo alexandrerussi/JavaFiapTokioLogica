@@ -20,7 +20,7 @@ public class Aula05Exercicio01 {
 		
 		
 		System.out.println("---------------");
-		System.out.println("Exercï¿½cio 3");
+		System.out.println("Exercício 3");
 		
 		
 		Scanner entrada = new Scanner(System.in);
