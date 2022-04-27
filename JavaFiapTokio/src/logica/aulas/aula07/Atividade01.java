@@ -25,6 +25,8 @@ public class Atividade01 {
 		soma = soma + num;
 		System.out.println(soma);
 		
+		tec.close();
+		
 		
 	}
 
