@@ -23,6 +23,8 @@ public class Atividade04 {
 		double media = (nota1 + nota2) / 2;
 		System.out.println("A média é: " + media);
 		
+		tec.close();
+		
 		
 	}
 
